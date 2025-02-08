@@ -1,3 +1,6 @@
+# Descrição: Faça um programa que leia uma frase e permita ao usuário escolher entre duas opções: colocar a frase 
+# toda em maiúsculo ou em minúsculo. Exiba a frase alterada na tela. Se o usuário digitar uma opção inválida, exiba uma mensagem de erro.
+
 print("Digite um frase:")
 string_normal = str(input())
 print("1 - Colocar tudo em maiúsculo")

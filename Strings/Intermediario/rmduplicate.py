@@ -1,3 +1,5 @@
+# Descrição: Programa que remove caracteres duplicados de uma string
+
 print("Digite a String que deseja remover aracteres duplicados:")
 str_normal = str(input())
 str_normal = str_normal.lower()

@@ -1,3 +1,6 @@
+# Crie um programa que substitua as vogais de uma string digitada pelo usuário por asteriscos. 
+# Exemplo: a string "O rato roeu a roupa do rei de Roma" deve ser exibida como "O r*t* r** * r**p* d* r** d* R*m*".
+
 print("Digite uma string que deseja substituir as vogais por asteriscos: ")
 str_normal = str(input())
 str_normal = str_normal.lower()

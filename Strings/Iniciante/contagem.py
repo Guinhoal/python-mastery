@@ -1,3 +1,5 @@
+#Descrição: Faça um programa realiza a contagem de quantas vezes cada caractere aparece em uma string
+
 print("Digite uma string para realizar uma contagem de quantas vezes cada caractere aparece:")
 string_usada = str(input())
 string_usada = string_usada.lower()
