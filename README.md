@@ -6,9 +6,9 @@ This repository contains a collection of exercises organized to enhance your ski
 
 ## 📂 Repository Content
 
-✅ **Strings** - Text manipulation, formatting, search, and regular expressions.
-✅ **Lists** - Sorting, filtering, comprehensions, and efficient manipulation.  
-✅ **Tuples** - Using tuples in Python, immutability, and unpacking.   
+✅ **Strings** - Text manipulation, formatting, search, and regular expressions.  
+✅ **Lists** - Sorting, filtering, comprehensions, and efficient manipulation.  
+✅ **Tuples** - Using tuples in Python, immutability, and unpacking.  
 ✅ **Sets** - Mathematical operations, duplicate removal, and intersections.  
 ✅ **Dictionaries** - Key-value structures, efficient loops, and advanced methods.  
 ✅ **Files** - Reading and writing text and CSV files.  
