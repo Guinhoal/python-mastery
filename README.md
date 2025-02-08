@@ -20,7 +20,7 @@ This repository contains a collection of exercises organized to enhance your ski
 ## 🚀 How to Use  
 
 1. Clone the repository:  
-   ```bash
+   ```
    git clone [https://github.com/your-username/python-mastery.git](https://github.com/your-username/python-mastery.git)
    cd python-mastery
    ```
@@ -30,12 +30,12 @@ This repository contains a collection of exercises organized to enhance your ski
 3. Solve the challenges and compare your answers with the provided solutions.
 
 4. To use Pandas and NumPy, install dependencies with:
-   ```bash
+   ```
    pip install pandas numpy
    ```
 
 5. To visualize DataFrames in Jupyter Notebook, run:
-   ```bash
+   ```
    jupyter notebook
    ```
 
@@ -52,15 +52,15 @@ We welcome contributions! If you have new exercises, optimizations, or suggestio
 
 1.  Fork this repository.
 2.  Create a new branch:
-   ```bash
+   ```
    git checkout -b feature-new-exercise
    ```
 3.  Make your changes and commit them:
-   ```bash
+   ```
    git commit -m "Added a new exercise on X topic"
    ```
 4.  Push to your branch:
-   ```bash
+   ```
    git push origin feature-new-exercise
    ```
 5.  Open a Pull Request and describe your changes.
