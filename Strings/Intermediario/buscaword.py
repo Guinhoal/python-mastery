@@ -1,4 +1,4 @@
-# Descrição: Programa que busca uma palavra em uma fraseT
+# Descrição: Programa que busca uma palavra em uma frase
 
 print("Digite uma frase para buscar uma palavra:")
 str_normal = str(input())

@@ -4,6 +4,7 @@ print("Digite uma string para realizar uma contagem de quantas vezes cada caract
 string_usada = str(input())
 string_usada = string_usada.lower()
 
+
 def adiciona_espaco_virgula(letra, dicionario):
     if letra == " ":
         if "espaco" in dicionario:
