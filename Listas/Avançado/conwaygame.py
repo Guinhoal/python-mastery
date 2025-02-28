@@ -1,4 +1,5 @@
 import random
+import time
 
 print("Iremos jogar o jogo da vida ou Conways Life")
 print("Caso queria saber mais sobre deve ver o comentário ou pesquisar")
@@ -19,4 +20,11 @@ for linhasn in range(ordem_matriz):
         linhas.append(random.randint(0, 1))
     matriz.append(linhas)
 
+print("Tabuleiro Inicial:")
 print(matriz)
+time.sleep(5)
+
+for linhasz in range(ordem_matriz):
+    linhas1 = matriz[linhasz]
+    for colunasz in range(ordem_matriz):
+        if matriz[linhas1[ordem_matriz]]
