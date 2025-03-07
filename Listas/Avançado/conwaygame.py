@@ -1,3 +1,10 @@
+#Faça um programa: Jogo da Vida de Conway
+#O Jogo da Vida é um autômato celular bidimensional, 
+# criado por John Horton Conway em 1970. O jogo é um exemplo de um autômato celular, 
+# e é famoso por sua simplicidade e sua capacidade de construir padrões 
+# complexos a partir de regras simples.
+
+
 import random
 import time
 
