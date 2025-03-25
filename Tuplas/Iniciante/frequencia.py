@@ -1,3 +1,5 @@
+#Descrição: Programe um algoritmo que calcula a frequência de cada elemento em uma tupla e apresenta os resultados em um dicionário.
+
 tupla = ()
 lista = []
 

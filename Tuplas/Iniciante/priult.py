@@ -1,3 +1,5 @@
+#Descrição: Programe um algoritmo que cria uma tupla contendo apenas o primeiro e o último elemento de uma lista fornecida pelo usuário.
+
 print("Digite uma lista de elementos para colocar o primeiro e ultimo em uma tupla:")
 lista = []
 while True:

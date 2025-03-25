@@ -1,3 +1,5 @@
+#Descrição: Programe um algoritmo que cria duas tuplas a partir de dados inseridos pelo usuário e depois concatena essas tuplas em uma única tupla.
+
 def cria_tupla(num_tupla):
     tupla = ()
     lista = []

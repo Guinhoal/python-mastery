@@ -1,3 +1,4 @@
+#Descrição: Programe um algoritmo que encontra a interseção entre duas tuplas, ou seja, cria uma nova tupla contendo apenas os elementos que estão presentes em ambas.
 print("Digite duas tuplas para poder juntar elas:")
 
 def cria_tupla(num):

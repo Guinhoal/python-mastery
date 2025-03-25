@@ -1,3 +1,4 @@
+#Descrição: Programe um algoritmo que comprima uma tupla registrando a contagem de elementos repetidos consecutivos. Por exemplo, (a,a,a,b,b,c) é comprimido para (3,a,2,b,1,c).
 lista = []
 tupla = ()
 print("Digite uma tupla para ela ser comprimida")

@@ -1,3 +1,5 @@
+#Descrição: Programe um algoritmo que cria uma tupla de tuplas, onde cada tupla interna representa um par de chave-valor inserido pelo usuário.
+
 pares = []
 tupla_final = ()
 

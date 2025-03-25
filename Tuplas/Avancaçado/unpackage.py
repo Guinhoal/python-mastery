@@ -1,3 +1,4 @@
+#Descrição: Programe um algoritmo que desempacota uma tupla. Se a tupla tiver 3 elementos ou menos, imprime cada elemento individualmente. Se tiver mais, imprime os 3 primeiros como uma tupla e o restante individualmente.
 lista = []
 tupla = ()
 

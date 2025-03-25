@@ -1,3 +1,5 @@
+#Descrição: Programe um algoritmo que calcula a soma de todos os elementos de uma tupla e o produto de todos eles, exibindo os resultados.
+
 print("Digite uma tupla para ver a soma do seus elementos e o produto:")
 lista = []
 tupla = ()

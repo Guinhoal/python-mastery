@@ -1,3 +1,5 @@
+#Descrição: Programe um algoritmo que cria uma tupla a partir de entradas do usuário e apresenta essa tupla ordenada de duas formas diferentes: usando o método sort() e implementando o algoritmo bubble sort.
+
 lista = []
 tupla = ()
 

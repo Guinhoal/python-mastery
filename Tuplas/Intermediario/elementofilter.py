@@ -1,3 +1,4 @@
+#Descrição: Programe um algoritmo que cria uma tupla com diversos elementos e filtra apenas os valores numéricos, criando uma nova tupla apenas com esses valores.
 lista = []
 tupla = ()
 lista_numericos = []

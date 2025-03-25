@@ -1,3 +1,4 @@
+#Descrição: Programe um algoritmo que verifica se um elemento específico existe em uma tupla e conta quantas vezes ele aparece.
 lista = []
 tupla = ()
 
