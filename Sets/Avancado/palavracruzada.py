@@ -1,3 +1,8 @@
+# Descrição: Crie um programa que leia duas listas de palavras e encontre as 
+# palavras que aparecem em ambas as listas. O programa deve converter as listas 
+# para conjuntos e usar a função intersection() para encontrar as palavras 
+# idênticas. A leitura deve parar quando o usuário digitar '999'.
+
 print("Digite duas listas de palavras para encontrar idênticos")
 
 def cria_lista(num):

@@ -1,3 +1,7 @@
+# Descrição: Crie um programa que leia dois conjuntos de números inteiros e 
+# retorne a união entre eles. O programa deve usar a função union() dos sets
+# e parar de ler números para cada conjunto quando o usuário digitar 999.
+
 print("Insira dois conjuntos e veja a união dos dois:")
 
 def cria_conjunto(num):

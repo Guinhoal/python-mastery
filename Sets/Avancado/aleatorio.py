@@ -1,3 +1,7 @@
+# Descrição: Crie um programa que gere dois conjuntos aleatórios com tamanhos 
+# variáveis (entre 1 e 30 elementos) e valores entre 1 e 50. O programa deve 
+# mostrar a união, interseção e diferença entre esses dois conjuntos.
+
 import random 
 
 conjunto1 = set()
