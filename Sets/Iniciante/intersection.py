@@ -1,3 +1,7 @@
+# Descrição: Crie um programa que leia dois conjuntos de números inteiros e 
+# retorne a interseção entre eles. O programa deve usar a função intersection() 
+# dos sets e parar de ler números para cada conjunto quando o usuário digitar 999.
+
 print("Digite dois conjuntos para ver a interseção entre eles")
 
 def cria_conjunto(num):

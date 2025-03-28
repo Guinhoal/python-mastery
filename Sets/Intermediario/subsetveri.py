@@ -1,3 +1,8 @@
+# Descrição: Crie um programa que leia dois conjuntos de números inteiros e 
+# verifique se um é subconjunto do outro usando o método issubset(). O programa 
+# deve informar qual conjunto é subconjunto do outro, ou se nenhum deles é 
+# subconjunto. A leitura deve parar quando o usuário digitar 999.
+
 print("Digite 2 conjuntos e veja se um conjunto é subcojunto do outro:")
 
 def cria_conjunto(num):

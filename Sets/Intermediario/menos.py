@@ -1,3 +1,8 @@
+# Descrição: Crie um programa que leia dois conjuntos de números inteiros e 
+# calcule a diferença entre eles usando o operador de subtração de conjuntos (-). 
+# O programa deve mostrar tanto o conjunto1 - conjunto2 quanto o conjunto2 - conjunto1.
+# A leitura deve parar quando o usuário digitar 999.
+
 print("Digite 2 conjuntos e veja se um conjunto é subcojunto do outro:")
 
 def cria_conjunto(num):
