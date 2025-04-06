@@ -1,4 +1,3 @@
-#
 
 print("Insira um dicionário e depois verifique se uma chave existe:")
 
